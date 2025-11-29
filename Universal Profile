@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aesthetic Profiles</title>
+  <link rel="stylesheet" href="profile1.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <h1 class="title">Our Team</h1>
+
+  <div class="container">
+
+    <!-- Member 1 -->
+    <div class="card">
+      <img src="dy.jpg" class="photo">
+      <h2>Charles John Dy</h2>
+      <p class="role">Group Leader</p>
+      <p class="bio">A student believes in “buy low, sell high” but mostly just buys high and cries.</p>
+      <p class="info">📍 Caloocan City, Philippines</p>
+      <p class="info">📨 charlesjhndy08@gmail.com</p>
+      <div class="links">
+        <a href="https://github.com/Chrlsdyy" class="btn github">GitHub</a>
+        <a href="https://www.facebook.com/charles.dy.979/" class="btn facebook">Facebook</a>
+      </div>
+    </div>
+
+    <!-- Member 2 -->
+    <div class="card">
+      <img src="moscare.jpg" class="photo">
+      <h2>Johnmarc Moscare</h2>
+      <p class="role">Group Member</p>
+      <p class="bio">A man that have passion in sabong that have 6 farm on visayas.</p>
+      <p class="info">📍 Caloocan City, Philippines</p>
+      <p class="info">📨 moscarejohnmarc@gmail.com</p>
+      <div class="links">
+        <a href="https://github.com/moscarejohnmarc-glitch" class="btn github">GitHub</a>
+        <a href="#" class="btn facebook">Facebook</a>
+      </div>
+    </div>
+
+    <!-- Member 3 -->
+    <div class="card">
+      <img src="gulla.jpg" class="photo">
+      <h2>Joshoa Gulla</h2>
+      <p class="role">Member</p>
+      <p class="bio">A man who can't be moved.</p>
+      <p class="info">📍 Quezon City, Philippines</p>
+      <p class="info">📨 joshoabasa@gmail.com</p>
+      <div class="links">
+        <a href="https://github.com/joshoabasa" class="btn github">GitHub</a>
+        <a href="https://www.facebook.com/jos.ua.50999?rdid=CNUxEnIHj0uA7c7A&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FaeTnYYAm#" class="btn facebook">Facebook</a>
+      </div>
+    </div>
+
+    <!-- Member 4 -->
+    <div class="card">
+      <img src="bueno.jpg" class="photo">
+      <h2>Eulrich Bueno</h2>
+      <p class="role">Group Member</p>
+      <p class="bio">Anong silbi ng gabi kung hindi naman ikaw ang aking katabi.</p>
+      <p class="info">📍 Caloocan City, Philippines</p>
+      <p class="info">📨 ulrichueno@gmail.com</p>
+      <div class="links">
+        <a href="https://github.com/eulrichbueno" class="btn github">GitHub</a>
+        <a href="https://www.facebook.com/EulrichBueno28?rdid=LoJEYaXOHQgvfTIP&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Em1e9b6P4#" class="btn facebook">Facebook</a>
+      </div>
+    </div>
+
+    <!-- Member 5 -->
+    <div class="card">
+      <img src="alfaro.jpg" class="photo">
+      <h2>John Albert Alfaro</h2>
+      <p class="role">Group Member</p>
+      <p class="bio">May bagyo ba? o may bago na?</p>
+      <p class="info">📍 Quezon City, Philippines</p>
+      <p class="info">📨 alfarojohnalbert@gmail.com</p>
+      <div class="links">
+        <a href="https://github.com/Mushh" class="btn github">GitHub</a>
+        <a href="https://www.facebook.com/johnalbert.alfaro.14?rdid=d68pJ8KSJReU85Cx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CgxNDujiD#" class="btn facebook">Facebook</a>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
